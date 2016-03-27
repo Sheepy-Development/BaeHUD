@@ -1,16 +1,16 @@
-name: BasicHUD
-version: 1.0.6
+name: MNetwork-POP
+version: 1.0.0
 main: aliuly\hud\Main
-api: 1.12.0
+api: [1.12.0,2.0.0]
 load: POSTWORLD
-website: https://github.com/alejandroliu/pocketmine-plugins/tree/master/BasicHUD
+website: https://more.com
 
 description: A configurable heads up display
-author: aliuly
+author: #Sheep
 
 commands:
   hud:
-    description: Control HUD display
+    description: 
     usage: "/hud [on|off|format]"
     permission: basichud.cmd
 
